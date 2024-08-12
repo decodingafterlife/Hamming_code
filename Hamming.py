@@ -1,5 +1,6 @@
 # GitHub: decodingafterlife 
 # Tanmay Shingavi
+
 def calculate_parity_bits(data):
     """Calculate the number of parity bits needed."""
     for i in range(10):  # 10 is more than enough for 8-bit data
