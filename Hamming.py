@@ -1,4 +1,4 @@
-# GitHub: Decodingafterlife 
+# GitHub: decodingafterlife 
 # Tanmay Shingavi
 def calculate_parity_bits(data):
     """Calculate the number of parity bits needed."""
